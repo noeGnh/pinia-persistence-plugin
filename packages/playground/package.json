@@ -11,7 +11,7 @@
     "js-cookie": "^3.0.5",
     "json-stringify-safe": "^5.0.1",
     "localforage": "^1.10.0",
-    "pinia": "^2.3.1",
+    "pinia": "^3.0.2",
     "pinia-persistence-plugin": "workspace:*",
     "secure-ls": "^1.2.6",
     "vue": "^3.5.13"
