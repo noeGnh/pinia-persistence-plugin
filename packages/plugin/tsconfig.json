@@ -5,12 +5,13 @@
     "strict": true,
     "target": "ESNext",
     "lib": ["ESNext", "DOM"],
-    "composite": true,
     "outDir": "dist",
     "declarationDir": "types",
     "baseUrl": ".",
     "rootDir": "src",
     "forceConsistentCasingInFileNames": true,
-    "moduleResolution": "node"
+    "moduleResolution": "node",
+    "declaration": true,
+    "skipLibCheck": true
   }
 }

@@ -13,7 +13,8 @@
     "skipLibCheck": true,
     "noEmit": true,
     "forceConsistentCasingInFileNames": true,
-    "types": ["pinia-persistence-plugin"]
+    "types": ["pinia-persistence-plugin"],
+    "composite": true
   },
   "include": [
     "src/**/*.ts",
