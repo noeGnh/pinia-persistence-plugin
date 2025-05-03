@@ -5,7 +5,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [v0.0.6](https://github.com/noeGnh/pinia-persistence-plugin/compare/v0.0.5...v0.0.6)
+## [v0.0.7](https://github.com/noeGnh/pinia-persistence-plugin/compare/v0.0.6...v0.0.7)
+
+### Commits
+
+- chore: add pinia 3 support [`f0b8d95`](https://github.com/noeGnh/pinia-persistence-plugin/commit/f0b8d957efa2639a67a7fcb7bddeb2e3e77e8369)
+
+## [v0.0.6](https://github.com/noeGnh/pinia-persistence-plugin/compare/v0.0.5...v0.0.6) - 2025-05-03
 
 ### Commits
 
